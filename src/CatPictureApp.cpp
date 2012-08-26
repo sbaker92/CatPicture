@@ -14,7 +14,6 @@ class CatPictureApp : public AppBasic {
 
   private:
 	float brightness;
-	float brightness2;
 };
 
 void CatPictureApp::setup()
